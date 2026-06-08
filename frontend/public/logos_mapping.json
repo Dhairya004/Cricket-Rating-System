@@ -1,0 +1,22 @@
+{
+  "mumbai_indians": "/logos/ipl/mumbai_indians.svg",
+  "chennai_super_kings": "/logos/ipl/chennai_super_kings.svg",
+  "royal_challengers_bangalore": "/logos/ipl/royal_challengers_bangalore.svg",
+  "punjab_kings": "/logos/ipl/punjab_kings.svg",
+  "kolkata_knight_riders": "/logos/ipl/kolkata_knight_riders.svg",
+  "rajasthan_royals": "/logos/ipl/rajasthan_royals.jpg",
+  "sunrisers_hyderabad": "/logos/ipl/sunrisers_hyderabad.svg",
+  "delhi_capitals": "/logos/ipl/delhi_capitals.png",
+  "lucknow_super_giants": "/logos/ipl/lucknow_supergiants.svg",
+  "gujarat_titans": "/logos/ipl/gujarat_titans.png",
+
+  "india": "/logos/international/india.svg",
+  "australia": "/logos/international/australia.png",
+  "england": "/logos/international/england.svg",
+  "south_africa": "/logos/international/south_africa.svg",
+  "new_zealand": "/logos/international/new_zealand.png",
+  "pakistan": "/logos/international/pakistan.svg",
+  "sri_lanka": "/logos/international/sri_lanka.png",
+  "afghanistan": "/logos/international/afghanistan.png",
+  "west_indies": "/logos/international/west_indies.svg"
+}
