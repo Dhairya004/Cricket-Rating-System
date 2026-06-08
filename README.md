@@ -3,7 +3,7 @@ This is a cricket rating system developed for rating teams' batting, bowling, an
 Following technologies were used:
 1. React (With NextJS as the framework)
 2. Flask
-3. PostgreSQL.
+3. MS Excel for data storage.
 
 ### Rating for IPL teams:
 <img width="1366" height="609" alt="image" src="https://github.com/user-attachments/assets/20761cd3-c2ff-4a82-9bc0-93c292b9ac34" />
